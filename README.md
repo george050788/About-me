@@ -1,4 +1,4 @@
-# <h2>Hi there! 👋<H2>
+# <h2 align="center">Hi there! 👋<H2>
 
 * 💥 I'm <em><b>Chih Yu Chu</em></b>. I Also go by <em>George</em>. 
 
