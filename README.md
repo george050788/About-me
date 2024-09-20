@@ -1,6 +1,6 @@
 # <h2 align="center">Hi there! 👋<H2>
 
-* 💥 I'm <em><b>Chih Yu Chu</em></b>. I Also go by <em>George</em>. 
+* 💥 I'm <em><b>Chih Yu Chu</em></b>. I Also go by <em><b>George</b></em>. 
 
 * 💻 I'm an <em><b>aggressive</em></b> and <em><b>quick learner</b></em> who thrives on Challenges.
 
